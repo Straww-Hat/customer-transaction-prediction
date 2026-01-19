@@ -1,8 +1,4 @@
-# customer-transaction-prediction
-Customer Transaction Prediction using ML
-
-
-# Customer Transaction Prediction
+# Customer Transaction Prediction using ML
 
 ## 📌 Problem Statement
 Predict whether a customer will make a transaction based on anonymized features.
