@@ -8,8 +8,8 @@ Predict whether a customer will make a transaction based on anonymized features.
 - Features: 142
 - Target: Binary (0 / 1)
 - Imbalanced dataset
-- Link : https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1003-
-CustTransPred.zip
+- Download the dataset from [here](https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1003-CustTransPred.zip) 
+and place it in the `data/` folder before running the notebook.
 
 ## 🧪 Approach
 - Exploratory Data Analysis
